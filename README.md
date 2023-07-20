@@ -32,7 +32,7 @@ Video demostration of testing across different devices
 
 ## URL Link
 
-🛠 View here : https://ajdevbox.github.io/webui/
+View here : https://ajdevbox.github.io/webui/
 
 
 
