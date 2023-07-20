@@ -8,7 +8,7 @@ This helps with planning out the HTML structure and the responsive layout
 ## Flexbox layout
 
 ![HTML notes](./mdnotes/layoutplan.png)
-I always like to plan out the various div elements that will be required to may basic structure using flex/ grid or a combination of both.  The design that was presented took me a bit of time to get my head around in order to achieve the desired outcome, but after a few tries and looking into the transform rotation documentation gave me a better understanding of how to get the desired outcome
+I always like to plan out the various div elements that will be required to make basic structure using flex/ grid or a combination of both.  The design that was presented took me a bit of time to get my head around in order to achieve the desired outcome, but after a few tries and looking into the transform rotation documentation gave me a better understanding of how to get the desired outcome
 
 
 ## Html Structure
