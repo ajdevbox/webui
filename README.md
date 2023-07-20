@@ -28,7 +28,7 @@ The following code snippets demonstrate how the responsiveness for the backgroun
 
 [Watch the Video](https://github.com/ajdevbox/webui/blob/main/mdnotes/test.mp4)
 
-Video demostration of testing across difrent devices
+Video demostration of testing across different devices
 
 ## URL Link
 
