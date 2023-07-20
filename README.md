@@ -24,4 +24,15 @@ In the nav section I decided to wrap the nav items (links) in a div labelled box
 
 The following code snippets demonstrate how the responsiveness for the background image was achieved as well as the responsiveness for the other screen devices
 
+## Video Demo
+
+[Watch the Video](./mdnotes/test.mp4)
+
+Video demostration of testing across different devices
+
+## URL Link
+
+link here
+
+
 
