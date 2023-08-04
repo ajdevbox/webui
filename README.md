@@ -2,8 +2,7 @@
 
 ![Figma Design](./mdnotes/figma.png)
 I started with inspecting the Figma art work that was supplied and exported the logo and images out and made a mock up on a sperate Figma board to visualise the look and feel across the different screens and devices.
-
-* This helps with planning out the HTML structure and the responsive layout
+This helps with planning out the HTML structure and the responsive layout
 
 ## Flexbox layout
 
@@ -17,7 +16,7 @@ The design that was presented took me a bit of time to get my head around in ord
 ![HTML notes](./mdnotes/html_structure.png)
 The whole layout was achieved using a basic wrapper container to house all the other div’s so that they would align correctly and can be targeted using flex box
 
-In the nav section I decided to wrap the nav items (links) in a div labelled box so that I could apply one style element to using the transform: rotation to get the desired outcome
+* The nav section I decided to wrap the nav items (links) in a div labelled box so that I could apply one style element to using the transform: rotation to get the desired outcome
 
 ## CSS and Responsivness
 
